@@ -1,2 +1,2 @@
 # Unity-ParticleSystems
-Unity Particle Systems related projects
+Unity Particle Systems Training.
